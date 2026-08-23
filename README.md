@@ -43,3 +43,6 @@ The main database entities are:
 - Products
 - Orders
 - Order Items
+
+## Author
+# Magdaline Muthui
